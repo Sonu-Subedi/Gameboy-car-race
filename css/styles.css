@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+#canvas {
+  background-image: url("../assets/bg.jpg");
+  border: 2px solid black;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
